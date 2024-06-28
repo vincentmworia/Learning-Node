@@ -1,6 +1,9 @@
-function sayHello(userName){
-    console.log('Hello '+userName);
-}
+// function sayHello(userName){
+//     console.log('Hello '+userName);
+// }
 
-sayHello('Vincent Mworia');
-// console.log(document);
+// sayHello('Vincent Mworia');
+// // console.log(document);
+// 
+const {mainName} = require ('./5-modulewrapper.js');
+console.log(mainName)
