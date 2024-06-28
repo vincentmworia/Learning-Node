@@ -7,4 +7,4 @@ console.log(osData.uptime());
 const freeMemory = osData.freemem();
 console.log(freeMemory);
 
-console.log(`We have ${freeMemory}bytes available free memory.`)
+console.log(`We have ${freeMemory} bytes available free memory.`)
